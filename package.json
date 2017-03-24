@@ -1,0 +1,15 @@
+{
+  "name": "chatRoom",
+  "description": "一个简单的在线聊天网页应用",
+  "version": "0.4.0",
+  "main": "server.js",
+  "dependencies": {
+    "event": "^1.0.0",
+    "express": "3.4.x",
+    "socket.io": "0.9.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
